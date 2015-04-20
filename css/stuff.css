@@ -1,0 +1,14 @@
+/*Typography*/
+h1 {
+	border-color: red;
+	font-weight: 600;
+	margin-bottom: 30px;
+}
+.lead {
+	color: #d5c1f2;
+	margin-bottom: 45px;
+}
+.lead:nth-of-type(2) {
+	font-size: initial;
+	margin-bottom: 20px;
+}
